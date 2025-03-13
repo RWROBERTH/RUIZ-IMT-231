@@ -1,0 +1,12 @@
+¿¿Qué número de permisos aplicarías y qué comando ejecutarías?
+utilizo echo para poder poder introducir los datos al archivo documento1.txt, luego utilizo chmod 640 para cumplir con las caracteristicas.
+
+¿Qué comando aplicarías para asignar estos permisos?
+creo el script con el comando nano, luego dentro del script con el comando echo puedo escribir un texto en la terminal, con el comando read y una variable puedo pedir una entrada, y para mostrar lo que esta dentro con el comando cat bash.
+
+¿Qué número de permisos es el adecuado?
+segun los numeros binarios el chmod seria 600, porque tendremos permisos de lectura y escritura pero no de ejecucion, y a la hora de ejecutar sale: ./config.cfg
+bash: ./config.cfg: Permiso denegado
+
+¿Qué comando utilizarías para establecer estos permisos?
+el 400, ya que el 4 es solo lectura.
