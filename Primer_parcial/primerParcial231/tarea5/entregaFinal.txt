@@ -1,0 +1,24 @@
+roberth-ruiz745@roberth-ruiz745-IdeaPad-3-14ITL6:~/RUIZ-IMT-231/Primer_parcial/primerParcial231$ tree -p
+[drwx------]  .
+├── [----------]  readmeExam.md
+├── [----------]  readmeExam.pdf
+├── [----------]  respuestas.txt
+├── [drwxrwxr-x]  tarea1
+│   ├── [drwxrwxr-x]  extrafolder
+│   │   └── [-rw-rw-r--]  notesExtra.txt
+│   └── [-rw-rw-r--]  fechatarea1.txt
+├── [drwx------]  tarea2
+│   ├── [-rw-rw-r--]  fechatarea2.txt
+│   └── [-rw---x--x]  mainConfig.cfg
+├── [drwx------]  tarea3
+│   ├── [---x--xr--]  basicScript.sh
+│   ├── [-rw-rw-r--]  fechatarea3.txt
+│   └── [drwxrwxr-x]  ubicaciones
+│       ├── [-rw-rw-r--]  tarea3
+│       └── [-rw-rw-r--]  ubicacion.txt
+├── [drwx------]  tarea4
+│   ├── [-rw-rw-r--]  fechatarea4
+│   └── [-rwx------]  infoDocument.txt
+└── [drwxrwxr-x]  tarea5
+
+8 directories, 13 files

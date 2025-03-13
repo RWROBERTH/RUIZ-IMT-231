@@ -1,0 +1,30 @@
+Tarea 1
+jue 13 mar 2025 10:55:05 -04
+primeramente le di a la carpeta primerParcial231 el comando chmod700 para no tener ningun incoveniente luego para ingresar con el cd a la carpeta
+luego con el comando mkdir creo una carpeta llamada tarea1, luego ingreso a ella con el cd, dentro de ella creo una carpeta llamada extrafolder.
+luego ingreso a la carpteta extrafolder para luego crear un archivo vacio llamado notesextra.txt con el touch,luego con el echo "jue 13 mar 2025 10:55:05 -04" le añado la fecha y hora.
+   
+Tarea 2
+jue 13 mar 2025 11:24:18 -04
+con el cd ingrese a la carpeta tarea2, luego utilice el chmod 611 para el mainConfig.cfg, luego cree con el nano la fechatarea2 y el date. luego utilice el hecho para añadirle texto al mainConfig.cfg
+
+Tarea3
+jue 13 mar 2025 11:49:43 -04
+le di chmod 700 a la carpeta tarea3 y de igual manera al basic, luego al basic le añadi todo el texto con el nano, sucecivamente a eso creo el archivo fechatarea3, luego creo la carpeta ubicaciones con el mkdir y luego copio la salida del pwd y creo con el nano el archivo ubicaciones.txt dentro de ubicaciones y pego la salida del pwd. luego vuelvo a tarea3 y al basic y doy el chmod 114. y el tree:   
+tree
+── basicScript.sh
+├── fechatarea3.txt
+└── ubicaciones
+    ├── tarea3
+    └── ubicacion.txt
+
+2 directories, 4 files
+
+Tarea4
+jue 13 mar 2025 12:16:11 -04
+El cat lo utilizamos para ver los datos internos de un archivo
+copie los pasos para poder llenar el nano de info pero el uname -r no me funciona
+
+Tarea5
+el tree lo utilizamos para ver como estan estructurados los archivos, y el tree -p para ver de manera mas detallada con los permisos
+copie la salida del tree -p y luego utilice el chmod 555 para que solo tenga lectura y ejecucion
